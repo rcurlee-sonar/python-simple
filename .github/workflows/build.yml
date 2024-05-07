@@ -7,6 +7,7 @@ on:
       - master
       - develop
       - 'releases/**'
+      - 'robot-*'
   pull_request:
     types: [opened, synchronize, reopened]
 
