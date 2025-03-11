@@ -1,0 +1,5 @@
+
+…python:S1763"GDelete this unreachable code or refactor the code to make it reachable.(š–ëÐJ$d56b4caf-3d8a-4ab2-92c9-f7d8e308d84c
+Œpython:S5632"IChange this code so that it raises an object deriving from BaseException.(È…ÞüúÿÿÿÿJ$b6cae258-8c65-4ec1-859a-586b5cfb6df3
+Špython:S1763"GDelete this unreachable code or refactor the code to make it reachable.(æä€ÕúÿÿÿÿJ$3cbbb6d3-288f-4b3e-974b-5d41a2639495
+ python:S1186"[Add a nested comment explaining why this function is empty, or complete the implementation.(¶ÿÅ¥8àÌš©õ1J$410dd0f2-87db-40e1-ad08-13fe4d0acb12
