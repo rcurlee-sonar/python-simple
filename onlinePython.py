@@ -17,6 +17,7 @@ def fun(a):
   i += 1             # this is never executed
 
 ### sample code to test a bug
+### create a new PR
 sizes = [
     {
         "name": "item_1",
